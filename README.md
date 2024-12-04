@@ -2,8 +2,8 @@
 
 1. **피부 투과 인체 신호 전송 광학 사물인터넷**
 
-https://github.com/user-attachments/assets/0af8036b-195c-45f4-a429-bb5fda50e7b4
+https://github.com/user-attachments/assets/20f7ff20-95de-4adf-8bdb-c666227d0d35
 
 2. **광학 사물인터넷을 이용한 무선 심전도 측정**
 
-https://github.com/user-attachments/assets/b4e19133-1788-42e1-9679-5d68dfc6c7c2
+https://github.com/user-attachments/assets/1439963d-8424-4525-b53b-ddda852c4ba1
