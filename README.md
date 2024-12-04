@@ -5,3 +5,5 @@
 https://github.com/user-attachments/assets/0af8036b-195c-45f4-a429-bb5fda50e7b4
 
 2. **광학 사물인터넷을 이용한 무선 심전도 측정**
+
+https://github.com/user-attachments/assets/b4e19133-1788-42e1-9679-5d68dfc6c7c2
