@@ -9,8 +9,8 @@ https://github.com/user-attachments/assets/20f7ff20-95de-4adf-8bdb-c666227d0d35
 <br>
 <br>
 
-2. **광학 사물인터넷을 이용한 무선 심전도 측정**
+2. **초저전력 광대역 무선 전송 링크를 이용한 심전도 측정**
 
 https://github.com/user-attachments/assets/1439963d-8424-4525-b53b-ddda852c4ba1
 
-**[영상3.2] 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/DyWwjNFkkhQ**
+**[영상3.2] 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/xEp-glSQuKc**
